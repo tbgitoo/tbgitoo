@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tbgitoo
 - 👀 I’m interested in scientific computing and data analysis and its use in everyday applications.
-- 🌱 I'm learning real-time signal processing for microcontroller systems and audio processing
-- 💞️ I’m looking to collaborate on neural recording and neurofeedback
-- 📫 How to reach me: thomas.braschler@unige.ch
+- 🌱 I am among others interested in microcontrollers and Android applications, particularly in embedded electronics and machine control
+- 📫 How to reach me: thomas.braschler@gmail.com
 
 <!---
 tbgitoo/tbgitoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
